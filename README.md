@@ -18,6 +18,32 @@ Atuo no desenvolvimento de soluções de ponta a ponta, desde a implementação 
 - Automação de processos, CI/CD e deploy.
 - Aprendizado contínuo em arquitetura de software e DevOps.
 
+## 🚀 Tecnologias e ferramentas
+
+### Front-end
+
+![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap)
+
+### Back-end
+
+![Backend](https://skillicons.dev/icons?i=nodejs,java,py)
+
+### Frameworks e bibliotecas
+
+<img height="48" src="https://skillicons.dev/icons?i=express,spring,prisma" /> <img height="48" src="https://raw.githubusercontent.com/colinhacks/zod/3782fe29920c311984004c350b9fefaf0ae4c54a/logo.svg" alt="Zod" title="Zod" />
+
+### Bancos de dados e cache
+
+<img height="48" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+
+### DevOps e ferramentas
+
+<p>
+  <img height="48" src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,postman" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="Apache" title="Apache" />
+  <img height="48" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" title="PM2" />
+</p>
+
 ## 📂 Projetos em destaque
 
 ### 🏷️ PromoRadar
@@ -49,31 +75,6 @@ Landing page comercial desenvolvida para um cliente real, com foco em presença 
 
 🔗 [Acessar projeto](https://chaveirodemilhoes.com.br/)
 
-## 🚀 Tecnologias e ferramentas
-
-### Front-end
-
-![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap)
-
-### Back-end
-
-![Backend](https://skillicons.dev/icons?i=nodejs,java,py)
-
-### Frameworks e bibliotecas
-
-<img height="48" src="https://skillicons.dev/icons?i=express,spring,prisma" /> <img height="48" src="https://raw.githubusercontent.com/colinhacks/zod/3782fe29920c311984004c350b9fefaf0ae4c54a/logo.svg" alt="Zod" title="Zod" />
-
-### Bancos de dados e cache
-
-<img height="48" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-
-### DevOps e ferramentas
-
-<p>
-  <img height="48" src="https://skillicons.dev/icons?i=docker,git,github,linux,nginx,postman" />
-  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" alt="Apache" title="Apache" />
-  <img height="48" src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" title="PM2" />
-</p>
 
 ## 🎓 Formação acadêmica
 
